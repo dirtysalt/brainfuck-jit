@@ -1,7 +1,7 @@
 TARGETS := bfloo
 CXXFLAGS := -W -Wall -g
 LDLIBS := -llightning
-PYTHON := python
+PYTHON := python2
 
 all: $(TARGETS)
 

@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 
 """Brainf**k JIT-compiler that produces CPython bytecode.
 You need the byteplay module to run this.
